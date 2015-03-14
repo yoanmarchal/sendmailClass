@@ -1,0 +1,52 @@
+[25-Jan-2015 16:47:40 Europe/Paris] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yoanmarc/public_html/lab/sendmail/post_contact.php on line 6
+[25-Jan-2015 16:47:40 Europe/Paris] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yoanmarc/public_html/lab/sendmail/post_contact.php on line 10
+[25-Jan-2015 16:47:40 Europe/Paris] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yoanmarc/public_html/lab/sendmail/post_contact.php on line 14
+[25-Jan-2015 17:01:29 Europe/Paris] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/yoanmarc/public_html/lab/sendmail/index.php on line 32
+[25-Jan-2015 17:25:23 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/yoanmarc/public_html/lab/sendmail/index.php on line 51
+[25-Jan-2015 17:37:29 Europe/Paris] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/yoanmarc/public_html/lab/sendmail/index.php on line 33
+[25-Jan-2015 18:39:12 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/yoanmarc/public_html/lab/sendmail/class/Form.php on line 30
+[25-Jan-2015 19:15:43 Europe/Paris] PHP Parse error:  syntax error, unexpected '$' in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 18
+[25-Jan-2015 19:15:59 Europe/Paris] PHP Parse error:  syntax error, unexpected '$' in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 22
+[25-Jan-2015 19:16:19 Europe/Paris] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 22
+[25-Jan-2015 19:16:19 Europe/Paris] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 22
+[25-Jan-2015 19:16:19 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_email() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 13
+[25-Jan-2015 19:16:41 Europe/Paris] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 22
+[25-Jan-2015 19:16:41 Europe/Paris] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 22
+[25-Jan-2015 19:16:41 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_email() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 13
+[25-Jan-2015 19:54:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ';', expecting function (T_FUNCTION) in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 10
+[25-Jan-2015 19:56:00 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_email() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 14
+[25-Jan-2015 19:56:16 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_in() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 14
+[25-Jan-2015 19:56:26 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_in() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 14
+[25-Jan-2015 19:56:28 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::validate_in() in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 14
+[25-Jan-2015 19:56:45 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::errors() in /home/yoanmarc/public_html/lab/sendmail/post_contact.php on line 16
+[25-Jan-2015 19:56:55 Europe/Paris] PHP Fatal error:  Call to undefined method Validator::errors() in /home/yoanmarc/public_html/lab/sendmail/post_contact.php on line 16
+[25-Jan-2015 20:00:24 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:00:46 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:01:31 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:02:54 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:02:58 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:03:54 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:04:00 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:04:06 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:04:17 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:04:56 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:09:03 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:09:11 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:09:49 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:09:57 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:11:58 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:13:35 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:14:22 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:14:24 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:14:31 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:15:58 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:19:52 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:21:28 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:23:37 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:26:19 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:28:13 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:29:19 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:30:06 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:30:51 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:30:58 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
+[25-Jan-2015 20:36:38 Europe/Paris] PHP Fatal error:  Cannot access empty property in /home/yoanmarc/public_html/lab/sendmail/class/Validator.php on line 15
