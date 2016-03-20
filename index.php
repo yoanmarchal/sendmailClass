@@ -1,8 +1,6 @@
 <?php 
 
-  include '_inc.php'; 
-
-
+  include '_inc.php';
 
 ?>
 <!doctype html>
@@ -29,13 +27,13 @@
 
       <div class="jumbotron">
 
-      <?php if(array_key_exists('errors', $_SESSION)): ?>
+      <?php if (array_key_exists('errors', $_SESSION)): ?>
         <div class="alert alert-danger">
           <?= implode('<br>', $_SESSION['errors']); ?>
         </div>
       <?php endif; ?>
 
-      <?php if(array_key_exists('success', $_SESSION)): ?>
+      <?php if (array_key_exists('success', $_SESSION)): ?>
         <div class="alert alert-success">
           Votre email nous as bien été envoyé
         </div>
@@ -46,21 +44,21 @@
         <?php $form = new Form(isset($_SESSION['inputs']) ? $_SESSION['inputs'] : []); ?>
           <div class="row">
             <div class="col-xs-4">
-              <?= $form->text('name', 'votre Nom');?>
+              <?= $form->text('name', 'votre Nom'); ?>
             </div>
             <div class="col-xs-4">
-              <?= $form->email('email', 'votre Email');?>
+              <?= $form->email('email', 'votre Email'); ?>
             </div>
 
             <div class="col-xs-4">
-              <?= $form->select('service', 'Service', ['Contact', 'Dépannage', 'Heimerdinger']);?>
+              <?= $form->select('service', 'Service', ['Contact', 'Dépannage', 'Heimerdinger']); ?>
             </div>
 
             <div class="col-xs-12">
-              <?= $form->textarea('message', 'Votre message');?>
+              <?= $form->textarea('message', 'Votre message'); ?>
 
-              <?= $form->text('check', '');?>
-              <?= $form->submit('Envoyer');?>
+              <?= $form->text('check', ''); ?>
+              <?= $form->submit('Envoyer'); ?>
             </div>
             
           </div>
@@ -75,7 +73,6 @@
 unset($_SESSION['inputs']);
 unset($_SESSION['success']);
 unset($_SESSION['errors']);
-
 
 ?>
     <!--[if lt IE 7]>
